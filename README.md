@@ -45,8 +45,5 @@ And we also introduced some deprecated methods that required some improvements.
 
 Agents were iteratively refined through 40+ experimental matches, culminating in FastBFS—the tournament-ready solution achieving 90% win rates (38/40 wins) and 6th place in class-wide competitions. This wiki documents our technical journey, from theoretical foundations to empirical breakthroughs.
 
-# Youtube presentation
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KiHUfiMOrxY/0.jpg)](https://www.youtube.com/watch?v=KiHUfiMOrxY)
-
-Due to the university's policy, most of the project codes are not available to GitHub repositories. If you want to get access to it, please contact us via email.
+Due to the university's policy, most of the project codes and our video presentation are not available to GitHub repositories. If you want to get access to it, please contact us via email(zhangxinmu_mousse@163.com).
